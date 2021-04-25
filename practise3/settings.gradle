@@ -1,0 +1,6 @@
+include ':app:simplefragmentapp'
+include ':app:systemintentsapp'
+include ':app:resultactivity'
+include ':app:intenapp'
+include ':app'
+rootProject.name = "practise3"
