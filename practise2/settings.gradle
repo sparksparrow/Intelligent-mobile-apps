@@ -1,0 +1,2 @@
+include ':app', ':second_activity', ':intentfilter', ':toastapp', ':notificationapp', ':dialog'
+rootProject.name='practise2'
