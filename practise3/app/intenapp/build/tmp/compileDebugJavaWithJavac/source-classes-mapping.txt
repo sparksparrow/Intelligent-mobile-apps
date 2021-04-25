@@ -1,0 +1,6 @@
+com/mirea/kovyrev/kovyrev/intenapp/BuildConfig.java
+ com.mirea.kovyrev.kovyrev.intenapp.BuildConfig
+com/mirea/kovyrev/kovyrev/intenapp/MainActivity.java
+ com.mirea.kovyrev.kovyrev.intenapp.MainActivity
+com/mirea/kovyrev/kovyrev/intenapp/SecondActivity.java
+ com.mirea.kovyrev.kovyrev.intenapp.SecondActivity

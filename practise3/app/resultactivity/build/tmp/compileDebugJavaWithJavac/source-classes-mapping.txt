@@ -1,0 +1,6 @@
+com/mirea/kovyrev/kovyrev/resultactivity/MainActivity.java
+ com.mirea.kovyrev.kovyrev.resultactivity.MainActivity
+com/mirea/kovyrev/kovyrev/resultactivity/BuildConfig.java
+ com.mirea.kovyrev.kovyrev.resultactivity.BuildConfig
+com/mirea/kovyrev/kovyrev/resultactivity/DataActivity.java
+ com.mirea.kovyrev.kovyrev.resultactivity.DataActivity

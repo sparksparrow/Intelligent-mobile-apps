@@ -1,0 +1,8 @@
+com/mirea/kovyrev/kovyrev/simplefragmentapp/Fragment2.java
+ com.mirea.kovyrev.kovyrev.simplefragmentapp.Fragment2
+com/mirea/kovyrev/kovyrev/simplefragmentapp/BuildConfig.java
+ com.mirea.kovyrev.kovyrev.simplefragmentapp.BuildConfig
+com/mirea/kovyrev/kovyrev/simplefragmentapp/MainActivity.java
+ com.mirea.kovyrev.kovyrev.simplefragmentapp.MainActivity
+com/mirea/kovyrev/kovyrev/simplefragmentapp/Fragment1.java
+ com.mirea.kovyrev.kovyrev.simplefragmentapp.Fragment1

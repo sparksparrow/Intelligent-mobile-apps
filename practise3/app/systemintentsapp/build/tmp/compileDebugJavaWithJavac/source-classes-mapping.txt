@@ -1,0 +1,4 @@
+com/mirea/kovyrev/kovyrev/systemintentsapp/MainActivity.java
+ com.mirea.kovyrev.kovyrev.systemintentsapp.MainActivity
+com/mirea/kovyrev/kovyrev/systemintentsapp/BuildConfig.java
+ com.mirea.kovyrev.kovyrev.systemintentsapp.BuildConfig
