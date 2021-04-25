@@ -1,2 +1,7 @@
+include ':app:workmanager'
+include ':app:loadermanager'
+include ':app:data_thread'
+include ':app:looper'
+include ':app:thread'
 include ':app'
 rootProject.name = "practise4"
