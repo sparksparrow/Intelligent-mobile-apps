@@ -1,0 +1,7 @@
+include ':app:audiorecord'
+include ':app:taskcamera'
+include ':app:camera'
+include ':app:accelerometer'
+include ':app:sensorlist'
+include ':app'
+rootProject.name = "practice5"
