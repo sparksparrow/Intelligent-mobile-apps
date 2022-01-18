@@ -1,2 +1,2 @@
 # Интеллектуальные мобильные приложения
-[testPath](./Relativepath/doc.md)
+[testPathToDoc](./Relativepath/doc.md)
