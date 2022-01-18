@@ -1,2 +1,2 @@
 # Интеллектуальные мобильные приложения
-[testPath](./Relativepath/test.jpg)
+[testPath](./Relativepath/doc.md)
